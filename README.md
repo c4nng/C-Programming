@@ -4,6 +4,7 @@ Türkçe Açıklama:
 🚀 Bu GitHub deposu, C programlama diline odaklanan projeleri içeren bir koleksiyonu barındırıyor. C dilinde yazılmış çeşitli örnekler, algoritmalar ve uygulamalar bu repo altında bulunabilir. 📚 C diline yönelik başlangıç düzeyinden ileri seviyeye kadar çeşitli PDF dokümanları da burada mevcut. 📖 Bu belgeler, C programlama dilini anlamak, temel ve gelişmiş konuları öğrenmek ve uygulamalarınızda başvurmak için kullanışlıdır. 🎯 Amacımız, C dilinde bilgi sahibi olmak isteyen herkese açık kaynaklı kaynaklar sunmak. 🤝 Katkıda bulunmaktan veya projeleri kullanmaktan çekinmeyin. Hadi birlikte kod yazalım ve C programlama dilini keşfedelim! 💻
 
 🌐 Sosyal Medya Hesapları:
+
 Twitter: @c4nndev
 Instagram: @c4nn.g
 LinkedIn: linkedin.com/in/c4nng
